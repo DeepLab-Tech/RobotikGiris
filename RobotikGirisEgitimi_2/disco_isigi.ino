@@ -1,13 +1,13 @@
-int R = 11;
+int R = 9;
 int B = 10;
-int G = 9;
-
+int G = 11;
 
 void setup()
 {
   pinMode(R, OUTPUT);
-  pinMode(G, OUTPUT);
   pinMode(B, OUTPUT);
+  pinMode(G, OUTPUT);
+  Serial.begin(9600);
 }
 
 void loop()
@@ -19,5 +19,5 @@ void loop()
   analogWrite(R, rdeger);
   analogWrite(B, bdeger);
   analogWrite(G, gdeger);
-  delay(1000);
+  delay(500);
 }
