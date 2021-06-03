@@ -1,0 +1,15 @@
+int pot=A0;
+int potDeger;
+
+void setup(){
+  pinMode(9,OUTPUT);
+
+}
+
+void loop(){
+  potDeger=analogRead(pot);
+  potDeger=map(potDeger, 0, 1023, 0, 255);
+  analogWrite(9, potDeger);
+  delay(10);
+
+}
