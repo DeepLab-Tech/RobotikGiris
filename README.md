@@ -1,4 +1,4 @@
-##Merhabalar!
+## Merhabalar!
 
 *DeepLab.Bootcamp bünyesinde gerçekleştirilmiş olan **"Robotik Giriş Eğitimi"**, Arduino kullanılarak yürütüldü. 5 derslik eğitimde yapılan tüm projelerin kodları, derslere göre ayrıldı.*
 
@@ -6,7 +6,7 @@
 linkedin.com/in/aybükedikkatli
 github.com/aybkky
 
-##Robotik Giriş Eğitimi Ders 1:RobotikGirisEgitimi_1
+## Robotik Giriş Eğitimi Ders 1: RobotikGirisEgitimi_1
 
 **Buton Kullanımı:** "buton_kullanimi.ino" *dosyasından projeye dair kodlara ulaşabilirsiniz. 
 "Buton Kullanımı" projesinde, buton komponentinin kullanılmasını sağlayan kodlar bulunmaktadır.*
@@ -19,7 +19,7 @@ github.com/aybkky
 
 **Trafik Lambası:** "trafik_lambasi.ino" *dosyasından projeye dair kodlara ulaşabilirsiniz. "Trafik Lambası" projesinde, sarı, yeşil, kırmızı renklerinde üç adet led belirlenen aralıklarla yakıp söndürmek ve ışıkların temsil ettiği kuralların seri haberleşme kullanılarak seri monitöre yazdırılmasını sağlayan kodlar bulunmaktadır.*
 
-##Robotik Giriş Eğitimi Ders 2:RobotikGirisEgitimi_2
+## Robotik Giriş Eğitimi Ders 2: RobotikGirisEgitimi_2
 
 **Disco Işığı:** "disco_isigi.ino" *dosyasından projeye dair kodlara ulaşabilirsiniz."Disco Işığı" projesinde, RGB led kullanılmıştır. RGB led ana ve ara renkleri elde etmemize yarayan bir led türüdür. Belirli zaman aralıklarıyla lede random değerler atanarak ara renkler elde etmek ve disco ışığı oluşturmak için gerekli kodlar bulunmaktadır.*
 
@@ -31,7 +31,7 @@ github.com/aybkky
 
 **RGB:** "rgb.ino" *dosyasından projeye dair kodlara ulaşabilirsiniz. "RGB" projesinde, belirli aralıklarla RGB ledden ana renkleri elde etmeyi sağlayan temel kodlar bulunmaktadır.*
 
-##Robotik Giriş Eğitimi Ders 3:RobotikGirisEgitimi_3
+## Robotik Giriş Eğitimi Ders 3: RobotikGirisEgitimi_3
 
 **HC-SR04:** "hcsr04.ino" *dosyasından projeye dair kodlara ulaşabilirsiniz. "HC-SR04" projesinde, mesafe ölçmeye yarayan HC-SR04 sensörünün kullanımını sağlayan temel kodlar bulunmaktadır.*
 
